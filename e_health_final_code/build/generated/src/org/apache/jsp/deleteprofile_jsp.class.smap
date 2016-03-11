@@ -1,0 +1,18 @@
+SMAP
+deleteprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 deleteprofile.jsp
+deleteprofile.jsp
++ 1 header.jsp
+header.jsp
+*L
+5,4:49
+1#1,73:52
+8#0,35:124
+43:159,5
+44,60:164
+104,2:224,3
+106,123:230
+*E

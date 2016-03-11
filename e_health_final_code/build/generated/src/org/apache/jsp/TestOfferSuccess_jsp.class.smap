@@ -1,0 +1,18 @@
+SMAP
+TestOfferSuccess_jsp.java
+JSP
+*S JSP
+*F
++ 0 TestOfferSuccess.jsp
+TestOfferSuccess.jsp
++ 1 header.jsp
+header.jsp
+*L
+1,2:50
+1#1,73:52
+3#0,39:124
+42,2:163,5
+44,54:173
+98,2:227,3
+100,123:233
+*E

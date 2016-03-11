@@ -1,0 +1,15 @@
+SMAP
+adminprofile_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminprofile.jsp
+adminprofile.jsp
++ 1 header.jsp
+header.jsp
+*L
+1:49
+6,4:50
+1#1,73:53
+9#0,139:125
+*E
